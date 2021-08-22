@@ -1,1 +1,3 @@
 print("test doc!")
+print("many test")
+print("all test docs")
